@@ -1,0 +1,19 @@
+id: A326A8B22
+title: Guru Yoga of Lord Marpa Lotsāwa
+type: translation
+pechas:
+- IBC074E60
+- I766575C0
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:12:41.332291
+  last_modified_at: 2023-01-04 12:12:41.332296
+  collections:
+  - Jamyang Khyentse Chökyi Lodrö Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  IBC074E60/9B2F: E03B
+  I766575C0/4DFE: E03B
